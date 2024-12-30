@@ -1,14 +1,35 @@
 
-# Project Title
+# Glanco
 
-A brief description of what this project does and who it's for
+Trung tâm lưu trữ tổng hợp
+
+## Demo
+
+Truy cập: [Glanco](https://glanco.blogspot.com/)
 
 
+## Cài đặt
+
+Trước hết, hãy làm sạch template bằng đoạn mã này:
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='clean-install.xml' b:templateVersion='0.0.1' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'><b:attr name='xmlns' value=''/><b:attr name='xmlns:b' value=''/><b:attr name='xmlns:expr' value=''/><b:attr name='xmlns:data' value=''/><head><b:if cond='false'><b:skin><![CDATA[]]></b:skin></b:if></head><body><b:section id='_' maxwidgets='1' showaddelement='false'/></body></html>
+```
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+## Mã màu
+
+| Màu của             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Nền (Sáng) | ![#fdfcff](https://via.placeholder.com/10/0a192f?text=+) #fdfcff |
+| Nền (Tối) | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## API Reference
@@ -56,15 +77,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
 
 ## Contributing
 
@@ -73,11 +85,6 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
-
-
-## Demo
-
-Truy cập: [Glanco](https://glanco.blogspot.com/)
 
 
 ## Deployment
@@ -162,15 +169,6 @@ I'm a full stack developer...
 Javascript, HTML, CSS...
 
 
-## Cài đặt
-
-Trước hết, hãy làm sạch template bằng đoạn mã này:
-```html
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html>
-<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='clean-install.xml' b:templateVersion='0.0.1' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'><b:attr name='xmlns' value=''/><b:attr name='xmlns:b' value=''/><b:attr name='xmlns:expr' value=''/><b:attr name='xmlns:data' value=''/><head><b:if cond='false'><b:skin><![CDATA[]]></b:skin></b:if></head><body><b:section id='_' maxwidgets='1' showaddelement='false'/></body></html>
-```
-    
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
