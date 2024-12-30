@@ -77,7 +77,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-Insert gif or link to demo
+Truy cập: [Glanco](https://glanco.blogspot.com/)
 
 
 ## Deployment
@@ -134,10 +134,10 @@ I'm a full stack developer...
 # Hi, I'm Katherine! 👋
 
 
-## 🔗 Links
+## 🔗 Liên kết
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Facebook](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![x](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 ## Other Common Github Profile Sections
@@ -162,13 +162,13 @@ I'm a full stack developer...
 Javascript, HTML, CSS...
 
 
-## Installation
+## Cài đặt
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
+Trước hết, hãy làm sạch template bằng đoạn mã này:
+```html
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='clean-install.xml' b:templateVersion='0.0.1' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'><b:attr name='xmlns' value=''/><b:attr name='xmlns:b' value=''/><b:attr name='xmlns:expr' value=''/><b:attr name='xmlns:data' value=''/><head><b:if cond='false'><b:skin><![CDATA[]]></b:skin></b:if></head><body><b:section id='_' maxwidgets='1' showaddelement='false'/></body></html>
 ```
     
 ## Lessons Learned
