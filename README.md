@@ -24,12 +24,9 @@ Trước hết, hãy làm sạch template bằng đoạn mã này:
 
 ## Mã màu
 
-| Màu của             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Nền (Sáng) | ![#fdfcff](https://via.placeholder.com/10/0a192f?text=+) #fdfcff |
-| Nền (Tối) | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Loại | Sáng | Tối |
+|----------|----------|----------|
+| Nền (bodyC) | ![#fdfcff](https://via.placeholder.com/10/fdfcff?text=+) #fdfcff | ![#1e1e1e](https://via.placeholder.com/10/1e1e1e?text=+) #1e1e1e
 
 
 ## API Reference
