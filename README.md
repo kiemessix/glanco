@@ -1,9 +1,9 @@
 
-# Project Title
+# Glanco
 
-A brief description of what this project does and who it's for
+Trung tâm lưu trữ tổng hợp
 
 
-## 🚀 About Me
+## 🚀 Về tôi
 I'm a full stack developer...
 
