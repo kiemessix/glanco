@@ -26,9 +26,8 @@ Trước hết, hãy làm sạch template bằng đoạn mã này:
 
 | Loại | Sáng | Tối |
 |----------|----------|----------|
-| Nền (bodyC) | ![#fdfcff](https://via.placeholder.com/10/fdfcff?text=+) #fdfcff | ![#1e1e1e](https://via.placeholder.com/10/1e1e1e?text=+) #1e1e1e
-
-
+| Nền `bodyB` | ![#fdfcff](https://via.placeholder.com/10/fdfcff?text=+) #fdfcff | ![#1e1e1e](https://via.placeholder.com/10/1e1e1e?text=+) #1e1e1e
+| Văn bản `bodyC` | ![#fdfcff](https://via.placeholder.com/10/fdfcff?text=+) #fdfcff |`darkT` ![#fffdfc](https://via.placeholder.com/10/fffdfc?text=+) #fffdfc
 ## API Reference
 
 #### Get all items
